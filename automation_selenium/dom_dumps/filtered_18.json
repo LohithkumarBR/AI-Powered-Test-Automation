@@ -1,0 +1,275 @@
+[
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-143",
+    "class": [
+      "MuiInputBase-root",
+      "MuiOutlinedInput-root",
+      "MuiInputBase-fullWidth",
+      "Mui-focused",
+      "Mui-focused",
+      "MuiInputBase-formControl",
+      "MuiInputBase-adornedEnd",
+      "MuiOutlinedInput-adornedEnd",
+      "MuiInputBase-marginDense",
+      "MuiOutlinedInput-marginDense"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-144",
+          "aria-invalid": "false",
+          "id": "Password",
+          "name": "password",
+          "type": "password",
+          "minlenght": "8",
+          "maxlength": "15",
+          "class": [
+            "MuiInputBase-input",
+            "MuiOutlinedInput-input",
+            "MuiInputBase-inputAdornedEnd",
+            "MuiOutlinedInput-inputAdornedEnd",
+            "MuiInputBase-inputMarginDense",
+            "MuiOutlinedInput-inputMarginDense"
+          ],
+          "value": "Password@123"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-145",
+          "class": [
+            "MuiInputAdornment-root",
+            "MuiInputAdornment-positionEnd",
+            "MuiInputAdornment-marginDense"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-144",
+    "aria-invalid": "false",
+    "id": "Password",
+    "name": "password",
+    "type": "password",
+    "minlenght": "8",
+    "maxlength": "15",
+    "class": [
+      "MuiInputBase-input",
+      "MuiOutlinedInput-input",
+      "MuiInputBase-inputAdornedEnd",
+      "MuiOutlinedInput-inputAdornedEnd",
+      "MuiInputBase-inputMarginDense",
+      "MuiOutlinedInput-inputMarginDense"
+    ],
+    "value": "Password@123",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-143",
+        "class": [
+          "MuiInputBase-root",
+          "MuiOutlinedInput-root",
+          "MuiInputBase-fullWidth",
+          "Mui-focused",
+          "Mui-focused",
+          "MuiInputBase-formControl",
+          "MuiInputBase-adornedEnd",
+          "MuiOutlinedInput-adornedEnd",
+          "MuiInputBase-marginDense",
+          "MuiOutlinedInput-marginDense"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-145",
+          "class": [
+            "MuiInputAdornment-root",
+            "MuiInputAdornment-positionEnd",
+            "MuiInputAdornment-marginDense"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-145",
+    "class": [
+      "MuiInputAdornment-root",
+      "MuiInputAdornment-positionEnd",
+      "MuiInputAdornment-marginDense"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-143",
+        "class": [
+          "MuiInputBase-root",
+          "MuiOutlinedInput-root",
+          "MuiInputBase-fullWidth",
+          "Mui-focused",
+          "Mui-focused",
+          "MuiInputBase-formControl",
+          "MuiInputBase-adornedEnd",
+          "MuiOutlinedInput-adornedEnd",
+          "MuiInputBase-marginDense",
+          "MuiOutlinedInput-marginDense"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-144",
+          "aria-invalid": "false",
+          "id": "Password",
+          "name": "password",
+          "type": "password",
+          "minlenght": "8",
+          "maxlength": "15",
+          "class": [
+            "MuiInputBase-input",
+            "MuiOutlinedInput-input",
+            "MuiInputBase-inputAdornedEnd",
+            "MuiOutlinedInput-inputAdornedEnd",
+            "MuiInputBase-inputMarginDense",
+            "MuiOutlinedInput-inputMarginDense"
+          ],
+          "value": "Password@123"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-158",
+    "class": [
+      "MuiInputBase-root",
+      "MuiOutlinedInput-root",
+      "MuiInputBase-fullWidth",
+      "MuiInputBase-formControl",
+      "MuiInputBase-adornedEnd",
+      "MuiOutlinedInput-adornedEnd",
+      "MuiInputBase-marginDense",
+      "MuiOutlinedInput-marginDense"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-159",
+          "aria-invalid": "false",
+          "id": "Confirm Password",
+          "name": "Confirm Password",
+          "type": "password",
+          "class": [
+            "MuiInputBase-input",
+            "MuiOutlinedInput-input",
+            "MuiInputBase-inputAdornedEnd",
+            "MuiOutlinedInput-inputAdornedEnd",
+            "MuiInputBase-inputMarginDense",
+            "MuiOutlinedInput-inputMarginDense"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-160",
+          "class": [
+            "MuiInputAdornment-root",
+            "MuiInputAdornment-positionEnd",
+            "MuiInputAdornment-marginDense"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-159",
+    "aria-invalid": "false",
+    "id": "Confirm Password",
+    "name": "Confirm Password",
+    "type": "password",
+    "class": [
+      "MuiInputBase-input",
+      "MuiOutlinedInput-input",
+      "MuiInputBase-inputAdornedEnd",
+      "MuiOutlinedInput-inputAdornedEnd",
+      "MuiInputBase-inputMarginDense",
+      "MuiOutlinedInput-inputMarginDense"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-158",
+        "class": [
+          "MuiInputBase-root",
+          "MuiOutlinedInput-root",
+          "MuiInputBase-fullWidth",
+          "MuiInputBase-formControl",
+          "MuiInputBase-adornedEnd",
+          "MuiOutlinedInput-adornedEnd",
+          "MuiInputBase-marginDense",
+          "MuiOutlinedInput-marginDense"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-160",
+          "class": [
+            "MuiInputAdornment-root",
+            "MuiInputAdornment-positionEnd",
+            "MuiInputAdornment-marginDense"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-160",
+    "class": [
+      "MuiInputAdornment-root",
+      "MuiInputAdornment-positionEnd",
+      "MuiInputAdornment-marginDense"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-158",
+        "class": [
+          "MuiInputBase-root",
+          "MuiOutlinedInput-root",
+          "MuiInputBase-fullWidth",
+          "MuiInputBase-formControl",
+          "MuiInputBase-adornedEnd",
+          "MuiOutlinedInput-adornedEnd",
+          "MuiInputBase-marginDense",
+          "MuiOutlinedInput-marginDense"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-159",
+          "aria-invalid": "false",
+          "id": "Confirm Password",
+          "name": "Confirm Password",
+          "type": "password",
+          "class": [
+            "MuiInputBase-input",
+            "MuiOutlinedInput-input",
+            "MuiInputBase-inputAdornedEnd",
+            "MuiOutlinedInput-inputAdornedEnd",
+            "MuiInputBase-inputMarginDense",
+            "MuiOutlinedInput-inputMarginDense"
+          ]
+        }
+      ]
+    }
+  }
+]

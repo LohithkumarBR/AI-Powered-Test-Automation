@@ -1,0 +1,449 @@
+[
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-12",
+    "text": "Swag Labs",
+    "class": [
+      "login_logo"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-13",
+          "class": [
+            "login_wrapper"
+          ],
+          "data-test": "login-container"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-13",
+    "class": [
+      "login_wrapper"
+    ],
+    "data-test": "login-container",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-14",
+          "class": [
+            "login_wrapper-inner"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-15",
+          "id": "login_button_container",
+          "class": [
+            "form_column"
+          ]
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-12",
+          "text": "Swag Labs",
+          "class": [
+            "login_logo"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-14",
+    "class": [
+      "login_wrapper-inner"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-13",
+        "class": [
+          "login_wrapper"
+        ],
+        "data-test": "login-container"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-15",
+          "id": "login_button_container",
+          "class": [
+            "form_column"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-16",
+          "class": [
+            "login-box"
+          ]
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-24",
+          "class": [
+            "login_credentials_wrap"
+          ],
+          "data-test": "login-credentials-container"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-15",
+    "id": "login_button_container",
+    "class": [
+      "form_column"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-14",
+        "class": [
+          "login_wrapper-inner"
+        ]
+      },
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-16",
+          "class": [
+            "login-box"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-18",
+          "class": [
+            "form_group"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-16",
+    "class": [
+      "login-box"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-15",
+        "id": "login_button_container",
+        "class": [
+          "form_column"
+        ]
+      },
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-18",
+          "class": [
+            "form_group"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-22",
+          "class": [
+            "error-message-container"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-18",
+    "class": [
+      "form_group"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-22",
+          "class": [
+            "error-message-container"
+          ]
+        },
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-23",
+          "type": "submit",
+          "class": [
+            "submit-button",
+            "btn_action"
+          ],
+          "data-test": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "value": "Login"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-22",
+    "class": [
+      "error-message-container"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-18",
+          "class": [
+            "form_group"
+          ]
+        },
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-23",
+          "type": "submit",
+          "class": [
+            "submit-button",
+            "btn_action"
+          ],
+          "data-test": "login-button",
+          "id": "login-button",
+          "name": "login-button",
+          "value": "Login"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-23",
+    "type": "submit",
+    "class": [
+      "submit-button",
+      "btn_action"
+    ],
+    "data-test": "login-button",
+    "id": "login-button",
+    "name": "login-button",
+    "value": "Login",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-18",
+          "class": [
+            "form_group"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-22",
+          "class": [
+            "error-message-container"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-24",
+    "class": [
+      "login_credentials_wrap"
+    ],
+    "data-test": "login-credentials-container",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-13",
+        "class": [
+          "login_wrapper"
+        ],
+        "data-test": "login-container"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-25",
+          "class": [
+            "login_credentials_wrap-inner"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-26",
+          "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+          "id": "login_credentials",
+          "class": [
+            "login_credentials"
+          ],
+          "data-test": "login-credentials"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-14",
+          "class": [
+            "login_wrapper-inner"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-25",
+    "class": [
+      "login_credentials_wrap-inner"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-24",
+        "class": [
+          "login_credentials_wrap"
+        ],
+        "data-test": "login-credentials-container"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-26",
+          "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+          "id": "login_credentials",
+          "class": [
+            "login_credentials"
+          ],
+          "data-test": "login-credentials"
+        },
+        {
+          "tag": "h4",
+          "FF-inspecter": "Fire-Flink-27",
+          "text": "Accepted usernames are"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-26",
+    "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+    "id": "login_credentials",
+    "class": [
+      "login_credentials"
+    ],
+    "data-test": "login-credentials",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-25",
+        "class": [
+          "login_credentials_wrap-inner"
+        ]
+      },
+      "children": [
+        {
+          "tag": "h4",
+          "FF-inspecter": "Fire-Flink-27",
+          "text": "Accepted usernames are"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-34",
+          "text": "secret sauce",
+          "class": [
+            "login_password"
+          ],
+          "data-test": "login-password"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "h4",
+    "FF-inspecter": "Fire-Flink-27",
+    "text": "Accepted usernames are",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-26",
+        "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+        "id": "login_credentials",
+        "class": [
+          "login_credentials"
+        ],
+        "data-test": "login-credentials"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-34",
+    "text": "secret sauce",
+    "class": [
+      "login_password"
+    ],
+    "data-test": "login-password",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-25",
+        "class": [
+          "login_credentials_wrap-inner"
+        ]
+      },
+      "children": [
+        {
+          "tag": "h4",
+          "FF-inspecter": "Fire-Flink-35",
+          "text": "Password for all users"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-26",
+          "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+          "id": "login_credentials",
+          "class": [
+            "login_credentials"
+          ],
+          "data-test": "login-credentials"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "h4",
+    "FF-inspecter": "Fire-Flink-35",
+    "text": "Password for all users",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-34",
+        "text": "secret sauce",
+        "class": [
+          "login_password"
+        ],
+        "data-test": "login-password"
+      }
+    }
+  }
+]

@@ -1,0 +1,16 @@
+appium-python-client
+xmltodict
+groq
+selenium
+Flask
+requests
+lxml
+openai
+Pillow
+opencv-python
+rapidfuzz
+google-cloud-aiplatform==1.71.1
+vertexai==1.71.1
+google-auth==2.47.0
+protobuf==5.29.5
+google-generativeai==0.8.6

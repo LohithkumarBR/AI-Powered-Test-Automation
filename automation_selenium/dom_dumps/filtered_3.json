@@ -1,0 +1,266 @@
+[
+  {
+    "tag": "body",
+    "FF-inspecter": "Fire-Flink-3",
+    "onload": "set_focus()",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-46",
+          "class": [
+            "inputs"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-47",
+          "text": "User Name",
+          "class": [
+            "label"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-46",
+    "class": [
+      "inputs"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-47",
+          "text": "User Name",
+          "class": [
+            "label"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-48",
+          "class": [
+            "input"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-47",
+    "text": "User Name",
+    "class": [
+      "label"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-46",
+        "class": [
+          "inputs"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-48",
+          "class": [
+            "input"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-51",
+          "text": "Password",
+          "class": [
+            "label"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-48",
+    "class": [
+      "input"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-46",
+        "class": [
+          "inputs"
+        ]
+      },
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-49",
+          "type": "text",
+          "name": "user_name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-47",
+          "text": "User Name",
+          "class": [
+            "label"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-51",
+          "text": "Password",
+          "class": [
+            "label"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-49",
+    "type": "text",
+    "name": "user_name",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-48",
+        "class": [
+          "input"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-51",
+    "text": "Password",
+    "class": [
+      "label"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-46",
+        "class": [
+          "inputs"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-47",
+          "text": "User Name",
+          "class": [
+            "label"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-48",
+          "class": [
+            "input"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-52",
+    "class": [
+      "input"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-46",
+        "class": [
+          "inputs"
+        ]
+      },
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-53",
+          "type": "password",
+          "name": "user_password"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-47",
+          "text": "User Name",
+          "class": [
+            "label"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-48",
+          "class": [
+            "input"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-53",
+    "type": "password",
+    "name": "user_password",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-52",
+        "class": [
+          "input"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-55",
+    "class": [
+      "button"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-46",
+        "class": [
+          "inputs"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-47",
+          "text": "User Name",
+          "class": [
+            "label"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-48",
+          "class": [
+            "input"
+          ]
+        }
+      ]
+    }
+  }
+]

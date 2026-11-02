@@ -1,0 +1,1561 @@
+[
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-52",
+    "id": "item_4_img_link",
+    "data-test": "item-4-img-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-53",
+          "alt": "Sauce Labs Backpack",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-backpack-img"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "img",
+    "FF-inspecter": "Fire-Flink-53",
+    "alt": "Sauce Labs Backpack",
+    "class": [
+      "inventory_item_img"
+    ],
+    "data-test": "inventory-item-sauce-labs-backpack-img",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-52",
+        "id": "item_4_img_link",
+        "data-test": "item-4-img-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-54",
+    "class": [
+      "inventory_item_description"
+    ],
+    "data-test": "inventory-item-description",
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-56",
+          "id": "item_4_title_link",
+          "data-test": "item-4-title-link"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-57",
+          "text": "Sauce Labs Backpack",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-56",
+    "id": "item_4_title_link",
+    "data-test": "item-4-title-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-57",
+          "text": "Sauce Labs Backpack",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-58",
+          "text": "carry allTheThings   with the sleek  streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection",
+          "class": [
+            "inventory_item_desc"
+          ],
+          "data-test": "inventory-item-desc"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-57",
+    "text": "Sauce Labs Backpack",
+    "class": [
+      "inventory_item_name"
+    ],
+    "data-test": "inventory-item-name",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-56",
+        "id": "item_4_title_link",
+        "data-test": "item-4-title-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-58",
+    "text": "carry allTheThings   with the sleek  streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection",
+    "class": [
+      "inventory_item_desc"
+    ],
+    "data-test": "inventory-item-desc",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-56",
+          "id": "item_4_title_link",
+          "data-test": "item-4-title-link"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-60",
+    "text": "29 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-61",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-backpack",
+          "id": "add-to-cart-sauce-labs-backpack",
+          "name": "add-to-cart-sauce-labs-backpack"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-61",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-backpack",
+    "id": "add-to-cart-sauce-labs-backpack",
+    "name": "add-to-cart-sauce-labs-backpack",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-60",
+          "text": "29 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-62",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-64",
+          "id": "item_0_img_link",
+          "data-test": "item-0-img-link"
+        },
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-65",
+          "alt": "Sauce Labs Bike Light",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-bike-light-img"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-74",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-86",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-64",
+    "id": "item_0_img_link",
+    "data-test": "item-0-img-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-65",
+          "alt": "Sauce Labs Bike Light",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-bike-light-img"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "img",
+    "FF-inspecter": "Fire-Flink-65",
+    "alt": "Sauce Labs Bike Light",
+    "class": [
+      "inventory_item_img"
+    ],
+    "data-test": "inventory-item-sauce-labs-bike-light-img",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-64",
+        "id": "item_0_img_link",
+        "data-test": "item-0-img-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-66",
+    "class": [
+      "inventory_item_description"
+    ],
+    "data-test": "inventory-item-description",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-62",
+        "class": [
+          "inventory_item"
+        ],
+        "data-test": "inventory-item"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-68",
+          "id": "item_0_title_link",
+          "data-test": "item-0-title-link"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-69",
+          "text": "Sauce Labs Bike Light",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-68",
+    "id": "item_0_title_link",
+    "data-test": "item-0-title-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-69",
+          "text": "Sauce Labs Bike Light",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-70",
+          "text": "A red light isn t the desired state in testing but it sure helps when riding your bike at night  Water resistant with 3 lighting modes  1 AAA battery included",
+          "class": [
+            "inventory_item_desc"
+          ],
+          "data-test": "inventory-item-desc"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-69",
+    "text": "Sauce Labs Bike Light",
+    "class": [
+      "inventory_item_name"
+    ],
+    "data-test": "inventory-item-name",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-68",
+        "id": "item_0_title_link",
+        "data-test": "item-0-title-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-70",
+    "text": "A red light isn t the desired state in testing but it sure helps when riding your bike at night  Water resistant with 3 lighting modes  1 AAA battery included",
+    "class": [
+      "inventory_item_desc"
+    ],
+    "data-test": "inventory-item-desc",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-68",
+          "id": "item_0_title_link",
+          "data-test": "item-0-title-link"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-71",
+    "class": [
+      "pricebar"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-66",
+        "class": [
+          "inventory_item_description"
+        ],
+        "data-test": "inventory-item-description"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-72",
+          "text": "9 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        },
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-73",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-bike-light",
+          "id": "add-to-cart-sauce-labs-bike-light",
+          "name": "add-to-cart-sauce-labs-bike-light"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-72",
+    "text": "9 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-71",
+        "class": [
+          "pricebar"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-73",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-bike-light",
+          "id": "add-to-cart-sauce-labs-bike-light",
+          "name": "add-to-cart-sauce-labs-bike-light"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-73",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-bike-light",
+    "id": "add-to-cart-sauce-labs-bike-light",
+    "name": "add-to-cart-sauce-labs-bike-light",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-71",
+        "class": [
+          "pricebar"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-72",
+          "text": "9 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-74",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-76",
+          "id": "item_1_img_link",
+          "data-test": "item-1-img-link"
+        },
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-77",
+          "alt": "Sauce Labs Bolt T-Shirt",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-bolt-t-shirt-img"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-62",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-86",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-76",
+    "id": "item_1_img_link",
+    "data-test": "item-1-img-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-77",
+          "alt": "Sauce Labs Bolt T-Shirt",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-bolt-t-shirt-img"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "img",
+    "FF-inspecter": "Fire-Flink-77",
+    "alt": "Sauce Labs Bolt T-Shirt",
+    "class": [
+      "inventory_item_img"
+    ],
+    "data-test": "inventory-item-sauce-labs-bolt-t-shirt-img",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-76",
+        "id": "item_1_img_link",
+        "data-test": "item-1-img-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-78",
+    "class": [
+      "inventory_item_description"
+    ],
+    "data-test": "inventory-item-description",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-74",
+        "class": [
+          "inventory_item"
+        ],
+        "data-test": "inventory-item"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-80",
+          "id": "item_1_title_link",
+          "data-test": "item-1-title-link"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-81",
+          "text": "Sauce Labs Bolt T Shirt",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-80",
+    "id": "item_1_title_link",
+    "data-test": "item-1-title-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-81",
+          "text": "Sauce Labs Bolt T Shirt",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-82",
+          "text": "Get your testing superhero on with the Sauce Labs bolt T shirt  From American Apparel  100  ringspun combed cotton  heather gray with red bolt",
+          "class": [
+            "inventory_item_desc"
+          ],
+          "data-test": "inventory-item-desc"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-81",
+    "text": "Sauce Labs Bolt T Shirt",
+    "class": [
+      "inventory_item_name"
+    ],
+    "data-test": "inventory-item-name",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-80",
+        "id": "item_1_title_link",
+        "data-test": "item-1-title-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-82",
+    "text": "Get your testing superhero on with the Sauce Labs bolt T shirt  From American Apparel  100  ringspun combed cotton  heather gray with red bolt",
+    "class": [
+      "inventory_item_desc"
+    ],
+    "data-test": "inventory-item-desc",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-80",
+          "id": "item_1_title_link",
+          "data-test": "item-1-title-link"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-83",
+    "class": [
+      "pricebar"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-78",
+        "class": [
+          "inventory_item_description"
+        ],
+        "data-test": "inventory-item-description"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-84",
+          "text": "15 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        },
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-85",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+          "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+          "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-84",
+    "text": "15 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-83",
+        "class": [
+          "pricebar"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-85",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+          "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+          "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-85",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "name": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-83",
+        "class": [
+          "pricebar"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-84",
+          "text": "15 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-86",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-88",
+          "id": "item_5_img_link",
+          "data-test": "item-5-img-link"
+        },
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-89",
+          "alt": "Sauce Labs Fleece Jacket",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-fleece-jacket-img"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-62",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-74",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-88",
+    "id": "item_5_img_link",
+    "data-test": "item-5-img-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-89",
+          "alt": "Sauce Labs Fleece Jacket",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-fleece-jacket-img"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "img",
+    "FF-inspecter": "Fire-Flink-89",
+    "alt": "Sauce Labs Fleece Jacket",
+    "class": [
+      "inventory_item_img"
+    ],
+    "data-test": "inventory-item-sauce-labs-fleece-jacket-img",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-88",
+        "id": "item_5_img_link",
+        "data-test": "item-5-img-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-90",
+    "class": [
+      "inventory_item_description"
+    ],
+    "data-test": "inventory-item-description",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-86",
+        "class": [
+          "inventory_item"
+        ],
+        "data-test": "inventory-item"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-92",
+          "id": "item_5_title_link",
+          "data-test": "item-5-title-link"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-93",
+          "text": "Sauce Labs Fleece Jacket",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-92",
+    "id": "item_5_title_link",
+    "data-test": "item-5-title-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-93",
+          "text": "Sauce Labs Fleece Jacket",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-94",
+          "text": "It s not every day that you come across a midweight quarter zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office",
+          "class": [
+            "inventory_item_desc"
+          ],
+          "data-test": "inventory-item-desc"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-93",
+    "text": "Sauce Labs Fleece Jacket",
+    "class": [
+      "inventory_item_name"
+    ],
+    "data-test": "inventory-item-name",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-92",
+        "id": "item_5_title_link",
+        "data-test": "item-5-title-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-94",
+    "text": "It s not every day that you come across a midweight quarter zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office",
+    "class": [
+      "inventory_item_desc"
+    ],
+    "data-test": "inventory-item-desc",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-92",
+          "id": "item_5_title_link",
+          "data-test": "item-5-title-link"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-96",
+    "text": "49 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-97",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-fleece-jacket",
+          "id": "add-to-cart-sauce-labs-fleece-jacket",
+          "name": "add-to-cart-sauce-labs-fleece-jacket"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-97",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-fleece-jacket",
+    "id": "add-to-cart-sauce-labs-fleece-jacket",
+    "name": "add-to-cart-sauce-labs-fleece-jacket",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-96",
+          "text": "49 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-98",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-100",
+          "id": "item_2_img_link",
+          "data-test": "item-2-img-link"
+        },
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-101",
+          "alt": "Sauce Labs Onesie",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-onesie-img"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-62",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-74",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-100",
+    "id": "item_2_img_link",
+    "data-test": "item-2-img-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-101",
+          "alt": "Sauce Labs Onesie",
+          "class": [
+            "inventory_item_img"
+          ],
+          "data-test": "inventory-item-sauce-labs-onesie-img"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "img",
+    "FF-inspecter": "Fire-Flink-101",
+    "alt": "Sauce Labs Onesie",
+    "class": [
+      "inventory_item_img"
+    ],
+    "data-test": "inventory-item-sauce-labs-onesie-img",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-100",
+        "id": "item_2_img_link",
+        "data-test": "item-2-img-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-102",
+    "class": [
+      "inventory_item_description"
+    ],
+    "data-test": "inventory-item-description",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-98",
+        "class": [
+          "inventory_item"
+        ],
+        "data-test": "inventory-item"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-104",
+          "id": "item_2_title_link",
+          "data-test": "item-2-title-link"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-105",
+          "text": "Sauce Labs Onesie",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-104",
+    "id": "item_2_title_link",
+    "data-test": "item-2-title-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-105",
+          "text": "Sauce Labs Onesie",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-106",
+          "text": "Rib snap infant onesie for the junior automation engineer in development  Reinforced 3 snap bottom closure  two needle hemmed sleeved and bottom won t unravel",
+          "class": [
+            "inventory_item_desc"
+          ],
+          "data-test": "inventory-item-desc"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-105",
+    "text": "Sauce Labs Onesie",
+    "class": [
+      "inventory_item_name"
+    ],
+    "data-test": "inventory-item-name",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-104",
+        "id": "item_2_title_link",
+        "data-test": "item-2-title-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-106",
+    "text": "Rib snap infant onesie for the junior automation engineer in development  Reinforced 3 snap bottom closure  two needle hemmed sleeved and bottom won t unravel",
+    "class": [
+      "inventory_item_desc"
+    ],
+    "data-test": "inventory-item-desc",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-104",
+          "id": "item_2_title_link",
+          "data-test": "item-2-title-link"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-108",
+    "text": "7 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-109",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-onesie",
+          "id": "add-to-cart-sauce-labs-onesie",
+          "name": "add-to-cart-sauce-labs-onesie"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-109",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-onesie",
+    "id": "add-to-cart-sauce-labs-onesie",
+    "name": "add-to-cart-sauce-labs-onesie",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-108",
+          "text": "7 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-110",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-116",
+          "id": "item_3_title_link",
+          "data-test": "item-3-title-link"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-117",
+          "text": "Test allTheThings   T Shirt  Red",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-62",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-74",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-116",
+    "id": "item_3_title_link",
+    "data-test": "item-3-title-link",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-117",
+          "text": "Test allTheThings   T Shirt  Red",
+          "class": [
+            "inventory_item_name"
+          ],
+          "data-test": "inventory-item-name"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-118",
+          "text": "This classic Sauce Labs t shirt is perfect to wear when cozying up to your keyboard to automate a few tests  Super soft and comfy ringspun combed cotton",
+          "class": [
+            "inventory_item_desc"
+          ],
+          "data-test": "inventory-item-desc"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-117",
+    "text": "Test allTheThings   T Shirt  Red",
+    "class": [
+      "inventory_item_name"
+    ],
+    "data-test": "inventory-item-name",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-116",
+        "id": "item_3_title_link",
+        "data-test": "item-3-title-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-118",
+    "text": "This classic Sauce Labs t shirt is perfect to wear when cozying up to your keyboard to automate a few tests  Super soft and comfy ringspun combed cotton",
+    "class": [
+      "inventory_item_desc"
+    ],
+    "data-test": "inventory-item-desc",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-116",
+          "id": "item_3_title_link",
+          "data-test": "item-3-title-link"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-119",
+    "class": [
+      "pricebar"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-120",
+          "text": "15 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        },
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-121",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "id": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "name": "add-to-cart-test.allthethings()-t-shirt-(red)"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-120",
+    "text": "15 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-119",
+        "class": [
+          "pricebar"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-121",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "id": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "name": "add-to-cart-test.allthethings()-t-shirt-(red)"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-121",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-test.allthethings()-t-shirt-(red)",
+    "id": "add-to-cart-test.allthethings()-t-shirt-(red)",
+    "name": "add-to-cart-test.allthethings()-t-shirt-(red)",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-119",
+        "class": [
+          "pricebar"
+        ]
+      },
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-120",
+          "text": "15 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "footer",
+    "FF-inspecter": "Fire-Flink-122",
+    "class": [
+      "footer"
+    ],
+    "data-test": "footer",
+    "relationship": {
+      "children": [
+        {
+          "tag": "ul",
+          "FF-inspecter": "Fire-Flink-123",
+          "class": [
+            "social"
+          ]
+        },
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-129",
+          "text": "LinkedIn",
+          "target": "_blank",
+          "rel": [
+            "noreferrer"
+          ],
+          "data-test": "social-linkedin"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "ul",
+    "FF-inspecter": "Fire-Flink-123",
+    "class": [
+      "social"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "footer",
+        "FF-inspecter": "Fire-Flink-122",
+        "class": [
+          "footer"
+        ],
+        "data-test": "footer"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-129",
+          "text": "LinkedIn",
+          "target": "_blank",
+          "rel": [
+            "noreferrer"
+          ],
+          "data-test": "social-linkedin"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-130",
+          "text": "2026 Sauce Labs  All Rights Reserved  Terms of Service   Privacy Policy",
+          "class": [
+            "footer_copy"
+          ],
+          "data-test": "footer-copy"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-129",
+    "text": "LinkedIn",
+    "target": "_blank",
+    "rel": [
+      "noreferrer"
+    ],
+    "data-test": "social-linkedin"
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-130",
+    "text": "2026 Sauce Labs  All Rights Reserved  Terms of Service   Privacy Policy",
+    "class": [
+      "footer_copy"
+    ],
+    "data-test": "footer-copy",
+    "relationship": {
+      "parent": {
+        "tag": "footer",
+        "FF-inspecter": "Fire-Flink-122",
+        "class": [
+          "footer"
+        ],
+        "data-test": "footer"
+      },
+      "siblings": [
+        {
+          "tag": "ul",
+          "FF-inspecter": "Fire-Flink-123",
+          "class": [
+            "social"
+          ]
+        }
+      ]
+    }
+  }
+]

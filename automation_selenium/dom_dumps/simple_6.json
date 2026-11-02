@@ -1,0 +1,303 @@
+[
+  {
+    "node": {
+      "tag": "html",
+      "FF-inspecter": "Fire-Flink-0",
+      "ff-xpath": "/html[1]",
+      "lang": "en",
+      "search": "en"
+    },
+    "search": "en"
+  },
+  {
+    "node": {
+      "tag": "script",
+      "text": "function n  if       n search 1   var a n search slice 1  split      map function n  return n replace   and  g        join      window history replaceState null null n pathname slice 0  1  a n hash   ",
+      "type": "text/javascript",
+      "search": "function n  if       n search 1   var a n search slice 1  split      map function n  return n replace   and  g        join      window history replacestate null null n pathname slice 0  1  a n hash text javascript"
+    },
+    "search": "function n  if       n search 1   var a n search slice 1  split      map function n  return n replace   and  g        join      window history replacestate null null n pathname slice 0  1  a n hash text javascript"
+  },
+  {
+    "node": {
+      "tag": "script",
+      "defer": "defer",
+      "src": "/static/js/main.bcf4bc5f.js",
+      "search": "defer static js main bcf4bc5f js"
+    },
+    "search": "defer static js main bcf4bc5f js"
+  },
+  {
+    "node": {
+      "tag": "body",
+      "FF-inspecter": "Fire-Flink-8",
+      "ff-xpath": "/html[1]/body[1]",
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-10",
+      "ff-xpath": "/html[1]/body[1]/div[1]",
+      "id": "root",
+      "search": "root"
+    },
+    "search": "root"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-11",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]",
+      "class": [
+        "login_container"
+      ],
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-12",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
+      "text": "Swag Labs",
+      "class": [
+        "login_logo"
+      ],
+      "search": "swag labs"
+    },
+    "search": "swag labs"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-13",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+      "class": [
+        "login_wrapper"
+      ],
+      "data-test": "login-container",
+      "search": "login container"
+    },
+    "search": "login container"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-14",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]",
+      "class": [
+        "login_wrapper-inner"
+      ],
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-15",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "id": "login_button_container",
+      "class": [
+        "form_column"
+      ],
+      "search": "login button container"
+    },
+    "search": "login button container"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-16",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "class": [
+        "login-box"
+      ],
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "form",
+      "FF-inspecter": "Fire-Flink-17",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]",
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-18",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]",
+      "class": [
+        "form_group"
+      ],
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "input",
+      "FF-inspecter": "Fire-Flink-19",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/input[1]",
+      "class": [
+        "input_error",
+        "form_input"
+      ],
+      "placeholder": "Username",
+      "type": "text",
+      "data-test": "username",
+      "id": "user-name",
+      "name": "user-name",
+      "autocorrect": "off",
+      "autocapitalize": "none",
+      "value": "standard_user",
+      "search": "none username text standard user user name off"
+    },
+    "search": "none username text standard user user name off"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-20",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]",
+      "class": [
+        "form_group"
+      ],
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "input",
+      "FF-inspecter": "Fire-Flink-21",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/input[1]",
+      "class": [
+        "input_error",
+        "form_input"
+      ],
+      "placeholder": "Password",
+      "type": "password",
+      "data-test": "password",
+      "id": "password",
+      "name": "password",
+      "autocorrect": "off",
+      "autocapitalize": "none",
+      "value": "secret_sauce",
+      "search": "secret sauce none password off"
+    },
+    "search": "secret sauce none password off"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-22",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[3]",
+      "class": [
+        "error-message-container"
+      ],
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "input",
+      "FF-inspecter": "Fire-Flink-23",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/input[1]",
+      "type": "submit",
+      "class": [
+        "submit-button",
+        "btn_action"
+      ],
+      "data-test": "login-button",
+      "id": "login-button",
+      "name": "login-button",
+      "value": "Login",
+      "search": "submit login login button"
+    },
+    "search": "submit login login button"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-24",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]",
+      "class": [
+        "login_credentials_wrap"
+      ],
+      "data-test": "login-credentials-container",
+      "search": "login credentials container"
+    },
+    "search": "login credentials container"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-25",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]",
+      "class": [
+        "login_credentials_wrap-inner"
+      ],
+      "search": ""
+    },
+    "search": ""
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-26",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+      "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+      "id": "login_credentials",
+      "class": [
+        "login_credentials"
+      ],
+      "data-test": "login-credentials",
+      "search": "standard userlocked out userproblem userperformance glitch usererror uservisual user login credentials"
+    },
+    "search": "standard userlocked out userproblem userperformance glitch usererror uservisual user login credentials"
+  },
+  {
+    "node": {
+      "tag": "h4",
+      "FF-inspecter": "Fire-Flink-27",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h4[1]",
+      "text": "Accepted usernames are",
+      "search": "accepted usernames are"
+    },
+    "search": "accepted usernames are"
+  },
+  {
+    "node": {
+      "tag": "div",
+      "FF-inspecter": "Fire-Flink-34",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+      "text": "secret sauce",
+      "class": [
+        "login_password"
+      ],
+      "data-test": "login-password",
+      "search": "secret sauce login password"
+    },
+    "search": "secret sauce login password"
+  },
+  {
+    "node": {
+      "tag": "h4",
+      "FF-inspecter": "Fire-Flink-35",
+      "ff-xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/h4[1]",
+      "text": "Password for all users",
+      "search": "password for all users"
+    },
+    "search": "password for all users"
+  }
+]

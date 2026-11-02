@@ -1,0 +1,287 @@
+[
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-18",
+    "class": [
+      "form_group"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-19",
+          "class": [
+            "input_error",
+            "form_input"
+          ],
+          "placeholder": "Username",
+          "type": "text",
+          "data-test": "username",
+          "id": "user-name",
+          "name": "user-name",
+          "autocorrect": "off",
+          "autocapitalize": "none"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-20",
+          "class": [
+            "form_group"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-22",
+          "class": [
+            "error-message-container"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-19",
+    "class": [
+      "input_error",
+      "form_input"
+    ],
+    "placeholder": "Username",
+    "type": "text",
+    "data-test": "username",
+    "id": "user-name",
+    "name": "user-name",
+    "autocorrect": "off",
+    "autocapitalize": "none",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-18",
+        "class": [
+          "form_group"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-20",
+    "class": [
+      "form_group"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-21",
+          "class": [
+            "input_error",
+            "form_input"
+          ],
+          "placeholder": "Password",
+          "type": "password",
+          "data-test": "password",
+          "id": "password",
+          "name": "password",
+          "autocorrect": "off",
+          "autocapitalize": "none"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-18",
+          "class": [
+            "form_group"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-22",
+          "class": [
+            "error-message-container"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-21",
+    "class": [
+      "input_error",
+      "form_input"
+    ],
+    "placeholder": "Password",
+    "type": "password",
+    "data-test": "password",
+    "id": "password",
+    "name": "password",
+    "autocorrect": "off",
+    "autocapitalize": "none",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-20",
+        "class": [
+          "form_group"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-22",
+    "class": [
+      "error-message-container"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-18",
+          "class": [
+            "form_group"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-20",
+          "class": [
+            "form_group"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-23",
+    "type": "submit",
+    "class": [
+      "submit-button",
+      "btn_action"
+    ],
+    "data-test": "login-button",
+    "id": "login-button",
+    "name": "login-button",
+    "value": "Login",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-18",
+          "class": [
+            "form_group"
+          ]
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-20",
+          "class": [
+            "form_group"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-24",
+    "class": [
+      "login_credentials_wrap"
+    ],
+    "data-test": "login-credentials-container",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-26",
+          "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+          "id": "login_credentials",
+          "class": [
+            "login_credentials"
+          ],
+          "data-test": "login-credentials"
+        },
+        {
+          "tag": "h4",
+          "FF-inspecter": "Fire-Flink-27",
+          "text": "Accepted usernames are"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-26",
+    "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+    "id": "login_credentials",
+    "class": [
+      "login_credentials"
+    ],
+    "data-test": "login-credentials",
+    "relationship": {
+      "children": [
+        {
+          "tag": "h4",
+          "FF-inspecter": "Fire-Flink-27",
+          "text": "Accepted usernames are"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-34",
+          "text": "secret sauce",
+          "class": [
+            "login_password"
+          ],
+          "data-test": "login-password"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "h4",
+    "FF-inspecter": "Fire-Flink-27",
+    "text": "Accepted usernames are",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-26",
+        "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+        "id": "login_credentials",
+        "class": [
+          "login_credentials"
+        ],
+        "data-test": "login-credentials"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-34",
+    "text": "secret sauce",
+    "class": [
+      "login_password"
+    ],
+    "data-test": "login-password",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-26",
+          "text": "standard userlocked out userproblem userperformance glitch usererror uservisual user",
+          "id": "login_credentials",
+          "class": [
+            "login_credentials"
+          ],
+          "data-test": "login-credentials"
+        }
+      ]
+    }
+  }
+]

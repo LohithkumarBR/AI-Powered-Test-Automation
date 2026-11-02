@@ -1,0 +1,79 @@
+[
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-47",
+    "class": [
+      "form_group"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-48",
+          "class": [
+            "input_error",
+            "form_input"
+          ],
+          "placeholder": "Zip/Postal Code",
+          "type": "text",
+          "data-test": "postalCode",
+          "id": "postal-code",
+          "name": "postalCode",
+          "autocorrect": "off",
+          "autocapitalize": "none"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-49",
+          "class": [
+            "error-message-container"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-48",
+    "class": [
+      "input_error",
+      "form_input"
+    ],
+    "placeholder": "Zip/Postal Code",
+    "type": "text",
+    "data-test": "postalCode",
+    "id": "postal-code",
+    "name": "postalCode",
+    "autocorrect": "off",
+    "autocapitalize": "none",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-47",
+        "class": [
+          "form_group"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-49",
+    "class": [
+      "error-message-container"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-47",
+          "class": [
+            "form_group"
+          ]
+        }
+      ]
+    }
+  }
+]

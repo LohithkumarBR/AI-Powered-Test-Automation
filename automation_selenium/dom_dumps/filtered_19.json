@@ -1,0 +1,124 @@
+[
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-183",
+    "class": [
+      "MuiPaper-root",
+      "MuiCard-root",
+      "signup_formCardContainer__-14Xu",
+      "MuiPaper-elevation0",
+      "MuiPaper-rounded"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-184",
+          "text": "Register",
+          "id": "btnDisabled",
+          "name": "btnDisabled",
+          "class": [
+            "signup_bn5__l1dQe"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-184",
+    "text": "Register",
+    "id": "btnDisabled",
+    "name": "btnDisabled",
+    "class": [
+      "signup_bn5__l1dQe"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-183",
+        "class": [
+          "MuiPaper-root",
+          "MuiCard-root",
+          "signup_formCardContainer__-14Xu",
+          "MuiPaper-elevation0",
+          "MuiPaper-rounded"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "section",
+    "FF-inspecter": "Fire-Flink-211",
+    "class": [
+      "footer_footerBlock__D1tfw"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-250"
+        },
+        {
+          "tag": "h1",
+          "FF-inspecter": "Fire-Flink-251",
+          "text": "registered office address"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-250",
+    "relationship": {
+      "children": [
+        {
+          "tag": "h1",
+          "FF-inspecter": "Fire-Flink-251",
+          "text": "registered office address"
+        },
+        {
+          "tag": "span",
+          "FF-inspecter": "Fire-Flink-252",
+          "text": "ShoppersStack private limited  gopalan coworks  kathreguppe  banashankari 3rd stage  bangalore  560029  karnataka  india"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "h1",
+    "FF-inspecter": "Fire-Flink-251",
+    "text": "registered office address",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-250"
+      },
+      "siblings": [
+        {
+          "tag": "span",
+          "FF-inspecter": "Fire-Flink-252",
+          "text": "ShoppersStack private limited  gopalan coworks  kathreguppe  banashankari 3rd stage  bangalore  560029  karnataka  india"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "span",
+    "FF-inspecter": "Fire-Flink-252",
+    "text": "ShoppersStack private limited  gopalan coworks  kathreguppe  banashankari 3rd stage  bangalore  560029  karnataka  india",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-250"
+      },
+      "siblings": [
+        {
+          "tag": "h1",
+          "FF-inspecter": "Fire-Flink-251",
+          "text": "registered office address"
+        }
+      ]
+    }
+  }
+]

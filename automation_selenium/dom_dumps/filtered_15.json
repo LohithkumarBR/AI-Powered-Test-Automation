@@ -1,0 +1,115 @@
+[
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-51",
+    "text": "Cancel",
+    "class": [
+      "btn",
+      "btn_secondary",
+      "back",
+      "btn_medium",
+      "cart_cancel_link"
+    ],
+    "data-test": "cancel",
+    "id": "cancel",
+    "name": "cancel",
+    "relationship": {
+      "children": [
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-52",
+          "class": [
+            "back-image"
+          ],
+          "alt": "Go back"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-53",
+          "type": "submit",
+          "class": [
+            "submit-button",
+            "btn",
+            "btn_primary",
+            "cart_button",
+            "btn_action"
+          ],
+          "data-test": "continue",
+          "id": "continue",
+          "name": "continue",
+          "value": "Continue"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "img",
+    "FF-inspecter": "Fire-Flink-52",
+    "class": [
+      "back-image"
+    ],
+    "alt": "Go back",
+    "relationship": {
+      "parent": {
+        "tag": "button",
+        "FF-inspecter": "Fire-Flink-51",
+        "text": "Cancel",
+        "class": [
+          "btn",
+          "btn_secondary",
+          "back",
+          "btn_medium",
+          "cart_cancel_link"
+        ],
+        "data-test": "cancel",
+        "id": "cancel",
+        "name": "cancel"
+      }
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-53",
+    "type": "submit",
+    "class": [
+      "submit-button",
+      "btn",
+      "btn_primary",
+      "cart_button",
+      "btn_action"
+    ],
+    "data-test": "continue",
+    "id": "continue",
+    "name": "continue",
+    "value": "Continue",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-51",
+          "text": "Cancel",
+          "class": [
+            "btn",
+            "btn_secondary",
+            "back",
+            "btn_medium",
+            "cart_cancel_link"
+          ],
+          "data-test": "cancel",
+          "id": "cancel",
+          "name": "cancel"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "footer",
+    "FF-inspecter": "Fire-Flink-54",
+    "class": [
+      "footer"
+    ],
+    "data-test": "footer"
+  }
+]

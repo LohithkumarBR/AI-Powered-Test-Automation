@@ -1,0 +1,649 @@
+[
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-19",
+    "text": "Open Menu",
+    "type": "button",
+    "id": "react-burger-menu-btn",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "img",
+          "FF-inspecter": "Fire-Flink-20",
+          "class": [
+            "bm-icon"
+          ],
+          "srcset": "/static/media/menu3x.52cc17a327296e6394f33e8c20abc62c.svg",
+          "alt": "Open Menu",
+          "data-test": "open-menu"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "img",
+    "FF-inspecter": "Fire-Flink-20",
+    "class": [
+      "bm-icon"
+    ],
+    "srcset": "/static/media/menu3x.52cc17a327296e6394f33e8c20abc62c.svg",
+    "alt": "Open Menu",
+    "data-test": "open-menu",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-19",
+          "text": "Open Menu",
+          "type": "button",
+          "id": "react-burger-menu-btn"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-32",
+    "class": [
+      "header_label"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-33",
+          "text": "Swag Labs",
+          "class": [
+            "app_logo"
+          ]
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-34",
+          "id": "shopping_cart_container",
+          "class": [
+            "shopping_cart_container"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-33",
+    "text": "Swag Labs",
+    "class": [
+      "app_logo"
+    ],
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-32",
+        "class": [
+          "header_label"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-34",
+    "id": "shopping_cart_container",
+    "class": [
+      "shopping_cart_container"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-35",
+          "class": [
+            "shopping_cart_link"
+          ],
+          "data-test": "shopping-cart-link"
+        },
+        {
+          "tag": "span",
+          "FF-inspecter": "Fire-Flink-36",
+          "text": "1",
+          "class": [
+            "shopping_cart_badge"
+          ],
+          "data-test": "shopping-cart-badge"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-32",
+          "class": [
+            "header_label"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-35",
+    "class": [
+      "shopping_cart_link"
+    ],
+    "data-test": "shopping-cart-link",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-34",
+        "id": "shopping_cart_container",
+        "class": [
+          "shopping_cart_container"
+        ]
+      },
+      "children": [
+        {
+          "tag": "span",
+          "FF-inspecter": "Fire-Flink-36",
+          "text": "1",
+          "class": [
+            "shopping_cart_badge"
+          ],
+          "data-test": "shopping-cart-badge"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "span",
+    "FF-inspecter": "Fire-Flink-36",
+    "text": "1",
+    "class": [
+      "shopping_cart_badge"
+    ],
+    "data-test": "shopping-cart-badge",
+    "relationship": {
+      "parent": {
+        "tag": "a",
+        "FF-inspecter": "Fire-Flink-35",
+        "class": [
+          "shopping_cart_link"
+        ],
+        "data-test": "shopping-cart-link"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-37",
+    "class": [
+      "header_secondary_container"
+    ],
+    "data-test": "secondary-header"
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-61",
+    "text": "29 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-62",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-backpack",
+          "id": "add-to-cart-sauce-labs-backpack",
+          "name": "add-to-cart-sauce-labs-backpack"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-62",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-backpack",
+    "id": "add-to-cart-sauce-labs-backpack",
+    "name": "add-to-cart-sauce-labs-backpack",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-61",
+          "text": "29 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-63",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-87",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-99",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-85",
+    "text": "15 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-86",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+          "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+          "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-86",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "id": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "name": "add-to-cart-sauce-labs-bolt-t-shirt",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-85",
+          "text": "15 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-87",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-97",
+          "text": "49 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        },
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-98",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-fleece-jacket",
+          "id": "add-to-cart-sauce-labs-fleece-jacket",
+          "name": "add-to-cart-sauce-labs-fleece-jacket"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-63",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-99",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-97",
+    "text": "49 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-98",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-fleece-jacket",
+          "id": "add-to-cart-sauce-labs-fleece-jacket",
+          "name": "add-to-cart-sauce-labs-fleece-jacket"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-98",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-fleece-jacket",
+    "id": "add-to-cart-sauce-labs-fleece-jacket",
+    "name": "add-to-cart-sauce-labs-fleece-jacket",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-97",
+          "text": "49 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-99",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-109",
+          "text": "7 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        },
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-110",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-onesie",
+          "id": "add-to-cart-sauce-labs-onesie",
+          "name": "add-to-cart-sauce-labs-onesie"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-63",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-87",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-109",
+    "text": "7 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-110",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-sauce-labs-onesie",
+          "id": "add-to-cart-sauce-labs-onesie",
+          "name": "add-to-cart-sauce-labs-onesie"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-110",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-sauce-labs-onesie",
+    "id": "add-to-cart-sauce-labs-onesie",
+    "name": "add-to-cart-sauce-labs-onesie",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-109",
+          "text": "7 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-111",
+    "class": [
+      "inventory_item"
+    ],
+    "data-test": "inventory-item",
+    "relationship": {
+      "children": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-121",
+          "text": "15 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        },
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-122",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "id": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "name": "add-to-cart-test.allthethings()-t-shirt-(red)"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-63",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        },
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-87",
+          "class": [
+            "inventory_item"
+          ],
+          "data-test": "inventory-item"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-121",
+    "text": "15 99",
+    "class": [
+      "inventory_item_price"
+    ],
+    "data-test": "inventory-item-price",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "button",
+          "FF-inspecter": "Fire-Flink-122",
+          "text": "Add to cart",
+          "class": [
+            "btn",
+            "btn_primary",
+            "btn_small",
+            "btn_inventory"
+          ],
+          "data-test": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "id": "add-to-cart-test.allthethings()-t-shirt-(red)",
+          "name": "add-to-cart-test.allthethings()-t-shirt-(red)"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "button",
+    "FF-inspecter": "Fire-Flink-122",
+    "text": "Add to cart",
+    "class": [
+      "btn",
+      "btn_primary",
+      "btn_small",
+      "btn_inventory"
+    ],
+    "data-test": "add-to-cart-test.allthethings()-t-shirt-(red)",
+    "id": "add-to-cart-test.allthethings()-t-shirt-(red)",
+    "name": "add-to-cart-test.allthethings()-t-shirt-(red)",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-121",
+          "text": "15 99",
+          "class": [
+            "inventory_item_price"
+          ],
+          "data-test": "inventory-item-price"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "footer",
+    "FF-inspecter": "Fire-Flink-123",
+    "class": [
+      "footer"
+    ],
+    "data-test": "footer"
+  }
+]

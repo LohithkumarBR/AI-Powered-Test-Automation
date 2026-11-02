@@ -1,0 +1,388 @@
+[
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-591",
+    "align": "center",
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-592",
+          "title": "Save [Alt+S]",
+          "accesskey": [
+            "S"
+          ],
+          "class": [
+            "crmButton",
+            "small",
+            "save"
+          ],
+          "type": "submit",
+          "name": "button",
+          "value": "  Save  "
+        },
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-593",
+          "title": "Cancel [Alt+X]",
+          "accesskey": [
+            "X"
+          ],
+          "class": [
+            "crmbutton",
+            "small",
+            "cancel"
+          ],
+          "type": "button",
+          "name": "button",
+          "value": "Cancel  "
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-592",
+    "title": "Save [Alt+S]",
+    "accesskey": [
+      "S"
+    ],
+    "class": [
+      "crmButton",
+      "small",
+      "save"
+    ],
+    "type": "submit",
+    "name": "button",
+    "value": "  Save  ",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-591",
+        "align": "center"
+      },
+      "siblings": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-593",
+          "title": "Cancel [Alt+X]",
+          "accesskey": [
+            "X"
+          ],
+          "class": [
+            "crmbutton",
+            "small",
+            "cancel"
+          ],
+          "type": "button",
+          "name": "button",
+          "value": "Cancel  "
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-593",
+    "title": "Cancel [Alt+X]",
+    "accesskey": [
+      "X"
+    ],
+    "class": [
+      "crmbutton",
+      "small",
+      "cancel"
+    ],
+    "type": "button",
+    "name": "button",
+    "value": "Cancel  ",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-591",
+        "align": "center"
+      },
+      "siblings": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-592",
+          "title": "Save [Alt+S]",
+          "accesskey": [
+            "S"
+          ],
+          "class": [
+            "crmButton",
+            "small",
+            "save"
+          ],
+          "type": "submit",
+          "name": "button",
+          "value": "  Save  "
+        }
+      ]
+    }
+  },
+  {
+    "tag": "td",
+    "FF-inspecter": "Fire-Flink-610",
+    "width": "30%",
+    "align": "left",
+    "class": [
+      "dvtCellInfo"
+    ],
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-611",
+          "type": "text",
+          "name": "lead_no",
+          "id": "lead_no",
+          "value": "AUTO GEN ON SAVE",
+          "class": [
+            "detailedViewTextBox"
+          ],
+          "onblur": "this.className='detailedViewTextBox'"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-611",
+    "type": "text",
+    "name": "lead_no",
+    "id": "lead_no",
+    "value": "AUTO GEN ON SAVE",
+    "class": [
+      "detailedViewTextBox"
+    ],
+    "onblur": "this.className='detailedViewTextBox'",
+    "relationship": {
+      "parent": {
+        "tag": "td",
+        "FF-inspecter": "Fire-Flink-610",
+        "width": "30%",
+        "align": "left",
+        "class": [
+          "dvtCellInfo"
+        ]
+      }
+    }
+  },
+  {
+    "tag": "tr",
+    "FF-inspecter": "Fire-Flink-612"
+  },
+  {
+    "tag": "option",
+    "FF-inspecter": "Fire-Flink-732",
+    "text": "None",
+    "value": "--None--",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-733",
+          "text": "Acquired",
+          "value": "Acquired"
+        },
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-734",
+          "text": "Active",
+          "value": "Active"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "option",
+    "FF-inspecter": "Fire-Flink-733",
+    "text": "Acquired",
+    "value": "Acquired",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-732",
+          "text": "None",
+          "value": "--None--"
+        },
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-734",
+          "text": "Active",
+          "value": "Active"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "option",
+    "FF-inspecter": "Fire-Flink-734",
+    "text": "Active",
+    "value": "Active",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-732",
+          "text": "None",
+          "value": "--None--"
+        },
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-733",
+          "text": "Acquired",
+          "value": "Acquired"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "option",
+    "FF-inspecter": "Fire-Flink-735",
+    "text": "Market Failed",
+    "value": "Market Failed",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-732",
+          "text": "None",
+          "value": "--None--"
+        },
+        {
+          "tag": "option",
+          "FF-inspecter": "Fire-Flink-733",
+          "text": "Acquired",
+          "value": "Acquired"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-800",
+    "align": "center",
+    "relationship": {
+      "children": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-801",
+          "title": "Save [Alt+S]",
+          "accesskey": [
+            "S"
+          ],
+          "class": [
+            "crmbutton",
+            "small",
+            "save"
+          ],
+          "type": "submit",
+          "name": "button",
+          "value": "  Save  "
+        },
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-802",
+          "title": "Cancel [Alt+X]",
+          "accesskey": [
+            "X"
+          ],
+          "class": [
+            "crmbutton",
+            "small",
+            "cancel"
+          ],
+          "type": "button",
+          "name": "button",
+          "value": "  Cancel  "
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-801",
+    "title": "Save [Alt+S]",
+    "accesskey": [
+      "S"
+    ],
+    "class": [
+      "crmbutton",
+      "small",
+      "save"
+    ],
+    "type": "submit",
+    "name": "button",
+    "value": "  Save  ",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-800",
+        "align": "center"
+      },
+      "siblings": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-802",
+          "title": "Cancel [Alt+X]",
+          "accesskey": [
+            "X"
+          ],
+          "class": [
+            "crmbutton",
+            "small",
+            "cancel"
+          ],
+          "type": "button",
+          "name": "button",
+          "value": "  Cancel  "
+        }
+      ]
+    }
+  },
+  {
+    "tag": "input",
+    "FF-inspecter": "Fire-Flink-802",
+    "title": "Cancel [Alt+X]",
+    "accesskey": [
+      "X"
+    ],
+    "class": [
+      "crmbutton",
+      "small",
+      "cancel"
+    ],
+    "type": "button",
+    "name": "button",
+    "value": "  Cancel  ",
+    "relationship": {
+      "parent": {
+        "tag": "div",
+        "FF-inspecter": "Fire-Flink-800",
+        "align": "center"
+      },
+      "siblings": [
+        {
+          "tag": "input",
+          "FF-inspecter": "Fire-Flink-801",
+          "title": "Save [Alt+S]",
+          "accesskey": [
+            "S"
+          ],
+          "class": [
+            "crmbutton",
+            "small",
+            "save"
+          ],
+          "type": "submit",
+          "name": "button",
+          "value": "  Save  "
+        }
+      ]
+    }
+  }
+]

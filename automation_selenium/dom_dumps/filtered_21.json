@@ -1,0 +1,226 @@
+[
+  {
+    "tag": "span",
+    "FF-inspecter": "Fire-Flink-112",
+    "class": [
+      "MuiButtonBase-root",
+      "MuiIconButton-root",
+      "jss14",
+      "MuiRadio-root",
+      "MuiRadio-colorSecondary",
+      "MuiIconButton-colorSecondary"
+    ],
+    "aria-disabled": "false",
+    "relationship": {
+      "children": [
+        {
+          "tag": "path",
+          "FF-inspecter": "Fire-Flink-117",
+          "d": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+        }
+      ],
+      "siblings": [
+        {
+          "tag": "span",
+          "FF-inspecter": "Fire-Flink-121",
+          "text": "Other",
+          "class": [
+            "MuiTypography-root",
+            "MuiFormControlLabel-label",
+            "MuiTypography-body1"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "path",
+    "FF-inspecter": "Fire-Flink-117",
+    "d": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+  },
+  {
+    "tag": "span",
+    "FF-inspecter": "Fire-Flink-121",
+    "text": "Other",
+    "class": [
+      "MuiTypography-root",
+      "MuiFormControlLabel-label",
+      "MuiTypography-body1"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "span",
+          "FF-inspecter": "Fire-Flink-112",
+          "class": [
+            "MuiButtonBase-root",
+            "MuiIconButton-root",
+            "jss14",
+            "MuiRadio-root",
+            "MuiRadio-colorSecondary",
+            "MuiIconButton-colorSecondary"
+          ],
+          "aria-disabled": "false"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-122",
+    "class": [
+      "MuiPaper-root",
+      "MuiCard-root",
+      "signup_formCardContainer__-14Xu",
+      "MuiPaper-elevation0",
+      "MuiPaper-rounded"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-183",
+          "class": [
+            "MuiPaper-root",
+            "MuiCard-root",
+            "signup_formCardContainer__-14Xu",
+            "MuiPaper-elevation0",
+            "MuiPaper-rounded"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "span",
+    "FF-inspecter": "Fire-Flink-180",
+    "text": "I agree to the",
+    "relationship": {
+      "children": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-181",
+          "text": "Terms and Conditions",
+          "id": "T&C",
+          "name": "T&C"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-181",
+    "text": "Terms and Conditions",
+    "id": "T&C",
+    "name": "T&C",
+    "relationship": {
+      "parent": {
+        "tag": "span",
+        "FF-inspecter": "Fire-Flink-180",
+        "text": "I agree to the"
+      }
+    }
+  },
+  {
+    "tag": "div",
+    "FF-inspecter": "Fire-Flink-183",
+    "class": [
+      "MuiPaper-root",
+      "MuiCard-root",
+      "signup_formCardContainer__-14Xu",
+      "MuiPaper-elevation0",
+      "MuiPaper-rounded"
+    ],
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "div",
+          "FF-inspecter": "Fire-Flink-122",
+          "class": [
+            "MuiPaper-root",
+            "MuiCard-root",
+            "signup_formCardContainer__-14Xu",
+            "MuiPaper-elevation0",
+            "MuiPaper-rounded"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "tag": "h1",
+    "FF-inspecter": "Fire-Flink-234",
+    "text": "policy",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-235",
+          "text": "return policy"
+        },
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-236",
+          "text": "terms of use"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-235",
+    "text": "return policy",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "h1",
+          "FF-inspecter": "Fire-Flink-234",
+          "text": "policy"
+        },
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-236",
+          "text": "terms of use"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-236",
+    "text": "terms of use",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "h1",
+          "FF-inspecter": "Fire-Flink-234",
+          "text": "policy"
+        },
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-235",
+          "text": "return policy"
+        }
+      ]
+    }
+  },
+  {
+    "tag": "a",
+    "FF-inspecter": "Fire-Flink-237",
+    "text": "security",
+    "relationship": {
+      "siblings": [
+        {
+          "tag": "h1",
+          "FF-inspecter": "Fire-Flink-234",
+          "text": "policy"
+        },
+        {
+          "tag": "a",
+          "FF-inspecter": "Fire-Flink-235",
+          "text": "return policy"
+        }
+      ]
+    }
+  }
+]
